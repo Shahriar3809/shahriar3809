@@ -27,12 +27,7 @@ I'm a passionate front-end developer with a strong focus on building dynamic and
 - Full-stack development with Node.js, Express.js, and MongoDB.
 - Frontend design with HTML, CSS, and Tailwind CSS.
 
-### 📫 How to Reach Me
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shahriar226/).
-- You can also email me at shahriar3809@gmail.com.
 
-### 😄 Pronouns
-- He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
