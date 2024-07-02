@@ -84,7 +84,7 @@ I'm a passionate MERN developer who strongly focuses on building dynamic and res
 
 
 ### 🌱 Currently Learning
-- Advanced concepts in React, such as hooks, context API, and Redux.
+- Advanced concepts in React, such as hooks.
 - Enhancing my knowledge in server-side development with Node.js and Express.js.
 - Exploring the latest trends in front-end development and UI/UX design.
 - Learning NextJs.
@@ -95,11 +95,12 @@ I'm a passionate MERN developer who strongly focuses on building dynamic and res
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahriar226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar226/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ashif.shahriar.226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ashif.shahriar.226/" height="30" width="40" /></a>
-</p>
+### Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">](https://www.linkedin.com/in/shahriar226/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40">](https://www.facebook.com/ashif.shahriar.226/)
+
+📧 Email: [shahriar3809@gmail.com](mailto:shahriar3809@gmail.com)
 
 
 Let's connect and build something amazing together! 🚀
