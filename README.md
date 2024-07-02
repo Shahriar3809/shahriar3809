@@ -3,7 +3,7 @@
 ## Info
 
 ## Hi there, I'm AL SHAHRIAR HOSSAIN! 👋
-I'm a passionate front-end developer with a strong focus on building dynamic and responsive web applications using React.js. I also have extensive experience with Firebase, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
+I'm a passionate MERN developer who strongly focuses on building dynamic and responsive web applications. I also have extensive experience with Firebase, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
 
 
 
