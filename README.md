@@ -3,13 +3,84 @@
 ## Info
 
 ## Hi there, I'm AL SHAHRIAR HOSSAIN! 👋
-
-
-
 I'm a passionate front-end developer with a strong focus on building dynamic and responsive web applications using React.js. I also have extensive experience with Firebase, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
 
+
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shahriar3809&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar3809&layout=compact&theme=radical" alt="Top Langs">
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#html-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+      <td align="center" width="96">
+      <a href="#tailwind-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#daisyui-tech">
+        <img src="https://daisyui.com/favicon.ico" width="48" height="48" alt="DaisyUI" />
+      </a>
+      <br>DaisyUI
+    </td>
+    <td align="center" width="96">
+      <a href="#reactjs-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React JS" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#firebase-tech">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#mongodb-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#expressjs-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#vscode-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🔭 Currently Working On
