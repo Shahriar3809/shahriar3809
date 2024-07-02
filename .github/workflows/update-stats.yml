@@ -1,0 +1,28 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate GitHub Stats
+        run: |
+          curl -s https://api.github.com/users/YOUR_USERNAME | jq '.public_repos' > repos.txt
+          curl -s https://api.github.com/users/YOUR_USERNAME/events | jq 'length' > contributions.txt
+          echo "Total Contributions: $(cat contributions.txt)" >> stats.md
+          echo "Total Repositories: $(cat repos.txt)" >> stats.md
+      - name: Update README
+        run: |
+          echo "## GitHub Stats" > README.md
+          cat stats.md >> README.md
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update GitHub Stats
