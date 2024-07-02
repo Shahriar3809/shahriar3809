@@ -1,4 +1,10 @@
+![Charles VAN GOETHEM](https://i.ibb.co/PrT8f7R/Asset-1-4x.png)
+
+## Info
+
 ## Hi there, I'm AL SHAHRIAR HOSSAIN! 👋
+
+
 
 I'm a passionate front-end developer with a strong focus on building dynamic and responsive web applications using React.js. I also have extensive experience with Firebase, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
 
